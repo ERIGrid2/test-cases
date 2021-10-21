@@ -1,4 +1,4 @@
-https://doi.org/10.5281/zenodo.5588212
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5588212.svg)](https://doi.org/10.5281/zenodo.5588212)
 
 # Test-Cases
 ERIGrid 2.0 test cases repository
